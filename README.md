@@ -1,1 +1,1 @@
-# Web-Design-Challenge
+Created a dashboard to display visuzalizations created to analyze Hawaiian weather patterns. The dashboard includes navigable individual pages which contain the visualizations and their corresponding explanations. 
